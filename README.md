@@ -15,11 +15,11 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 ### Things I'll Do This Week:
 - [ ] Visit my parents house ≥ 2
-- [ ] Listen to code/design/tech related podcasts ≥ 3
+- [ ] Listen to podcasts ≥ 5
 - [ ] Take more photography with my new camera
-- [ ] Start reading [JavaScript & jQuery by John Duckett](https://vk.com/doc29211059_430673081?hash=456e03e0e9ed3ea328&dl=3b6d4faa11d61f42c2) & do the exercises
+- [ ] Review [JavaScript & jQuery by John Duckett](https://vk.com/doc29211059_430673081?hash=456e03e0e9ed3ea328&dl=3b6d4faa11d61f42c2) & do the exercises
 - [ ] Look into [Angular 2 Style Guide by John Papa](https://angular.io/docs/ts/latest/guide/style-guide.html)
-- [ ] Book hotels for my upcoming Europe trip
+- [ ] Book hotels/Airbnb for the upcoming Europe trip
 - [ ] Look into design (maybe a template) & tools I want to use for my personal website
 - [ ] Help my boyfriend pack his belongings for his move to Silicon Valley (Woohoo!)
 - [ ] Make an icon with Photoshop
