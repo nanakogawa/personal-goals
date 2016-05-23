@@ -28,12 +28,13 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Build a project with Angular 2
+- [ ] Read this [CSS Guidelines](http://cssguidelin.es/)
 - [ ] Watch or read tutorials on Photoshop
 - [ ] Learn more MySQL
 - [ ] Learn Sass
 - [ ] Learn Less
 
-### Other Daily/Weekly Activities
+### Other Daily/Weekly Logs
 - [Happy Moments](https://github.com/nanakogawa/personal-goals/blob/master/happy-moments/2016-happy-moments.md)
 - [Picture Moments](https://github.com/nanakogawa/personal-goals/blob/master/picture-moments/2016-picture-moments.md)
 - [Podcasts I've Listen to](https://github.com/nanakogawa/personal-goals/blob/master/resources/podcasts.md)
