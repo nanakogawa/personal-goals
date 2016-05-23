@@ -3,11 +3,11 @@ Personal Goals
 My personal goals made open source! I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning. Inspired by this [blog post](https://una.im/personal-goals-guide/#💁).
 
 # Overarching Goals for 2016
-1. Meet More People!
-2. Get Better at JavaScript
+1. My Well-Being
+2. Get Better at JavaScript!
 3. Learn CSS & JS animations
 4. Make More Art (Sketch, Calligraphy, Photoshop, Photography)
-5. Prioritize my Health & Fitness
+5. Meet More People!
 
 # May 23, 2016
 

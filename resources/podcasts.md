@@ -24,4 +24,4 @@ May 2016
 18. [Codepen - 090: Evolution](https://blog.codepen.io/2016/05/18/090-evolution/)
 19. [CodeNewbie - Ep. 88: CodeNewbie Apprentice](http://www.codenewbie.org/podcast/codenewbie-apprentice)
 20. [CodeNewbie - Ep. 86: Intro to Databases](http://www.codenewbie.org/podcast/intro-to-databases)
-
+21. [CodeNewbie - Ep. 89: Mobile Developer](http://www.codenewbie.org/podcast/mobile-developer)
