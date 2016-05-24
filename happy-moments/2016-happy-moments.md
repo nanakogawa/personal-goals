@@ -25,3 +25,7 @@ Today we went to [ChocXO](https://www.yelp.com/biz/chocxo-bean-to-bar-chocolatie
 03/22/2016
 ----------
 We went to another new cafe [Belage Gourmet](https://www.yelp.com/biz/belage-gourmet-garden-grove-garden-grove) tonight and hotel hunted for our up coming Europe trip! "Hotel" as in Airbnb rentals, found some really nice ones!
+
+03/23/2016
+----------
+Tonight, we booked all our stays and flights for our upcoming Europe trip. Woohoooo!

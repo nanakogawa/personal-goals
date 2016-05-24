@@ -25,3 +25,7 @@ May 2016
 19. [CodeNewbie - Ep. 88: CodeNewbie Apprentice](http://www.codenewbie.org/podcast/codenewbie-apprentice)
 20. [CodeNewbie - Ep. 86: Intro to Databases](http://www.codenewbie.org/podcast/intro-to-databases)
 21. [CodeNewbie - Ep. 89: Mobile Developer](http://www.codenewbie.org/podcast/mobile-developer)
+22. [JSJ - 153: Careers for Junior Developers with Aimee Knight](https://devchat.tv/js-jabber/153-jsj-careers-for-junior-developers-with-aimee-knight)
+23. [JSJ - 178: Tech Education and The Business of Running Front End Masters with Marc Grabanski](https://devchat.tv/js-jabber/178-jsj-tech-education-and-the-business-of-running-front-end-masters-with-marc-grabanski)
+24. [JSJ - 001: Asynchronous Programming](https://devchat.tv/js-jabber/001-jsj-asynchronous-programming)
+25. [CodeNewbie - Ep.65: Art and Code](http://www.codenewbie.org/podcast/art-and-code)
