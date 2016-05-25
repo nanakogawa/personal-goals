@@ -29,3 +29,4 @@ May 2016
 23. [JSJ - 178: Tech Education and The Business of Running Front End Masters with Marc Grabanski](https://devchat.tv/js-jabber/178-jsj-tech-education-and-the-business-of-running-front-end-masters-with-marc-grabanski)
 24. [JSJ - 001: Asynchronous Programming](https://devchat.tv/js-jabber/001-jsj-asynchronous-programming)
 25. [CodeNewbie - Ep.65: Art and Code](http://www.codenewbie.org/podcast/art-and-code)
+46. [CodeNewbie - Ep.84: From Research To Code](http://www.codenewbie.org/podcast/from-research-to-code)

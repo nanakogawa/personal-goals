@@ -29,3 +29,7 @@ We went to another new cafe [Belage Gourmet](https://www.yelp.com/biz/belage-gou
 03/23/2016
 ----------
 Tonight, we booked all our stays and flights for our upcoming Europe trip. Woohoooo!
+
+03/24/2016
+----------
+We went to [Irenia](https://www.yelp.com/biz/irenia-santa-ana), a new & modern filipino restaurant in downtown Santa Ana recommended from my friend and former coworker. We tried all 9 dishes on the menu & 1 special. Everything was uhhmazing and we got to meet the chef!
