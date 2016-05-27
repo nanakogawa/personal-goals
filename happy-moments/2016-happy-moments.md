@@ -33,3 +33,11 @@ Tonight, we booked all our stays and flights for our upcoming Europe trip. Wooho
 03/24/2016
 ----------
 We went to [Irenia](https://www.yelp.com/biz/irenia-santa-ana), a new & modern filipino restaurant in downtown Santa Ana recommended from my friend and former coworker. We tried all 9 dishes on the menu & 1 special. Everything was uhhmazing and we got to meet the chef!
+
+03/25/2016
+----------
+It's 10:00pm, sleeping early for once!
+
+03/26/2016
+----------
+We went to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) (our all time favorite restaurant that has a special place in our hearts) with my boyfriend, his co-workers, and their friend for my boyfriend's go away dinner. It was *SOO* much fun and the restaurant gave us a huge discount! It was such a delight surprise!

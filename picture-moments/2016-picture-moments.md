@@ -1,6 +1,6 @@
 # Picture Moments
 
-### Pictures of the week! Hoping to make photography a daily effort, even if it's little. (:
+### Pictures of the week! Hoping to capture more moments each day.
 
 1. Week of 3/16/2016
 --------------------
