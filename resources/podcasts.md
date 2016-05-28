@@ -32,3 +32,7 @@ May 2016
 26. [CodeNewbie - Ep.84: From Research To Code](http://www.codenewbie.org/podcast/from-research-to-code)
 27. [CodeNewbie - Ep.85: Technical Writing](http://www.codenewbie.org/podcast/technical-writing)
 28. [CodeNewbie - Ep.57: Podcasting with Changelog](http://www.codenewbie.org/podcast/podcasting-with-changelog)
+29. [CodeNewbie - Ep.73: Coding Chef](http://www.codenewbie.org/podcast/coding-chef)
+30. [CodeNewbie - Ep.78: Hardware Newbie](http://www.codenewbie.org/podcast/hardware-newbie)
+31. [CodeNewbie - Ep.58: From Journalist to Developer](http://www.codenewbie.org/podcast/from-journalist-to-developer)
+32. [CodeNewbie - Ep.68: Too Late To Be Awesome](http://www.codenewbie.org/podcast/too-late-to-be-awesome)
