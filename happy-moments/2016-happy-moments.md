@@ -41,3 +41,7 @@ It's 10:00pm, sleeping early for once!
 03/26/2016
 ----------
 We went to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) (our all time favorite restaurant that has a special place in our hearts) with my boyfriend, his co-workers, and their friend for my boyfriend's go away dinner. It was *SOO* much fun and the restaurant gave us a huge discount! It was such a delight surprise!
+
+03/27/2016
+----------
+Started to learn [ReactJS](https://facebook.github.io/react/) and [SASS](http://sass-lang.com/)! Wooohoooo! AND the glasses I wanted for months, has finally arrived!!
