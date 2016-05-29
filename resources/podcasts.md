@@ -36,3 +36,4 @@ May 2016
 30. [CodeNewbie - Ep.78: Hardware Newbie](http://www.codenewbie.org/podcast/hardware-newbie)
 31. [CodeNewbie - Ep.58: From Journalist to Developer](http://www.codenewbie.org/podcast/from-journalist-to-developer)
 32. [CodeNewbie - Ep.68: Too Late To Be Awesome](http://www.codenewbie.org/podcast/too-late-to-be-awesome)
+33. [The Web Platform - 86: Learning React.js](http://thewebplatformpodcast.com/86-learning-reactjs)

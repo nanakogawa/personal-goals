@@ -44,4 +44,4 @@ We went to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) (our al
 
 03/27/2016
 ----------
-Started to learn [ReactJS](https://facebook.github.io/react/) and [SASS](http://sass-lang.com/)! Wooohoooo! AND the glasses I wanted for months, has finally arrived!!
+Started to learn [ReactJS](https://facebook.github.io/react/) and [Sass](http://sass-lang.com/)! Wooohoooo! AND the glasses I wanted for months, has finally arrived!!
