@@ -45,3 +45,7 @@ We went to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) (our al
 03/27/2016
 ----------
 Started to learn [ReactJS](https://facebook.github.io/react/) and [Sass](http://sass-lang.com/)! Wooohoooo! AND the glasses I wanted for months, has finally arrived!!
+
+03/28/2016
+----------
+Had [Taco Maria]() for lunch, [Nektar Juice Bar] for snack, and [Lola Gaspar](https://www.yelp.com/biz/lola-gaspar-santa-ana) and [Playground](https://www.yelp.com/biz/playground-santa-ana-3) for dinner. Food filled days are the best days!!
