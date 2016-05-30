@@ -48,4 +48,8 @@ Started to learn [ReactJS](https://facebook.github.io/react/) and [Sass](http://
 
 03/28/2016
 ----------
-Had [Taco Maria]() for lunch, [Nektar Juice Bar] for snack, and [Lola Gaspar](https://www.yelp.com/biz/lola-gaspar-santa-ana) and [Playground](https://www.yelp.com/biz/playground-santa-ana-3) for dinner. Food filled days are the best days!!
+Had [Taco Maria](https://www.yelp.com/biz/taco-maria-costa-mesa) for lunch, [Nektar Juice Bar] for snack, and [Lola Gaspar](https://www.yelp.com/biz/lola-gaspar-santa-ana) and [Playground](https://www.yelp.com/biz/playground-santa-ana-3) for dinner. Food filled days are the best days!!
+
+03/29/2016
+----------
+I went on a freaking helicopter today for my first time!! We flew over the coast of Orange County and over these beautiful neighborhoods and streets. He did this very frightening thing where we were at about 1000ft over the water and he dropped 600ft like a roller coaster. Then another 200 from there. It was scary but so fun much!! I had such an amazing time.
