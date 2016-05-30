@@ -14,6 +14,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 ### This Week's Focus: ReactJS
 
 ### Things I'll Do This Week:
+- [ ] Listen to podcasts/books ≥ 8
 - [ ] Look into design (maybe a template) & tools I want to use for my personal website
 - [ ] Make an icon with Photoshop
 - [ ] Make that same icon in CSS in Codepen
