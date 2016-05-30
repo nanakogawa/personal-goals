@@ -37,3 +37,4 @@ May 2016
 31. [CodeNewbie - Ep.58: From Journalist to Developer](http://www.codenewbie.org/podcast/from-journalist-to-developer)
 32. [CodeNewbie - Ep.68: Too Late To Be Awesome](http://www.codenewbie.org/podcast/too-late-to-be-awesome)
 33. [The Web Platform - 86: Learning React.js](http://thewebplatformpodcast.com/86-learning-reactjs)
+34. [Code Winds - 015: Michael Jackson and Ryan Florence explain that React.js really changes how we think about building web and mobile apps](http://codewinds.com/podcast/015.html)
