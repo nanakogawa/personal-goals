@@ -11,23 +11,22 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 # May 23, 2016
 
-### This Week's Focus: Review JavaScript fundamentals
+### This Week's Focus: ReactJS
 
 ### Things I'll Do This Week:
-- [ ] Visit my parents house ≥ 2
-- [ ] Listen to podcasts ≥ 5
-- [ ] Take more photography with my new camera
-- [ ] Review [JavaScript & jQuery by John Duckett](https://vk.com/doc29211059_430673081?hash=456e03e0e9ed3ea328&dl=3b6d4faa11d61f42c2) & do the exercises
-- [ ] Look into [Angular 2 Style Guide by John Papa](https://angular.io/docs/ts/latest/guide/style-guide.html)
-- [ ] Book hotels/Airbnb for the upcoming Europe trip
 - [ ] Look into design (maybe a template) & tools I want to use for my personal website
-- [ ] Help my boyfriend pack his belongings for his move to Silicon Valley (Woohoo!)
 - [ ] Make an icon with Photoshop
-- [ ] Make that same icon in CSS on Codepen
+- [ ] Make that same icon in CSS in Codepen
+- [ ] Read through documentation for ReactJS
+- [ ] Watch these series of [ReactJS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+- [ ] Read [Navigating the ReactJS Ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
+- [ ] Start digging in and change the UI of the new project at work with ReactJS
+- [ ] Read [Getting Started with SASS](https://scotch.io/tutorials/getting-started-with-sass)
 
 ### Things I'll Do in the Future:
-- [ ] Be familiar with all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Build a project with Angular 2
+- [ ] Build a project with ReactJS
 - [ ] Read this [CSS Guidelines](http://cssguidelin.es/)
 - [ ] Watch or read tutorials on Photoshop
 - [ ] Learn more MySQL
