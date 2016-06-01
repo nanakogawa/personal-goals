@@ -8,4 +8,3 @@
 - [JS Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### Tools
-- [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
