@@ -57,3 +57,7 @@ I went on a freaking helicopter today for my first time!! We flew over the coast
 03/30/2016
 ----------
 We had the movers come in in the morning and clear out our apartment. It was one of those happy and sad at the same time type of moments watching the room become more empty. We had lunch at [Cucina Enoteca](https://www.yelp.com/biz/cucina-enoteca-irvine-3), which was super! Started on some tutorials on ReactJS afterwards!
+
+03/31/2016
+----------
+I went out to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) AND [Irenia](https://www.yelp.com/biz/irenia-santa-ana) for dinner with Kara & my boyfriend! We had such a blast!!
