@@ -68,4 +68,4 @@ Did some deadlifts at the gym and it felt *sooooo* good. I am so happy to be bac
 
 06/02/2016
 ----------
-Finished my task with React on a project at work that I got thrown into with a 2 day deadline!! And went to the [OCCS](https://www.orangecountycodeschool.com/) Alumni meetup, yippy!
+Finished my task with React on a project at work that I got thrown into with a 2 day deadline!! And went to the [OCCS](https://www.orangecountycodeschool.com/) Alumni meet up, yippy!
