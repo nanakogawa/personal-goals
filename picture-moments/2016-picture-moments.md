@@ -23,7 +23,7 @@ Week of 5/30/2016
 ![Playground](https://c1.staticflickr.com/8/7453/27231826080_13e99a2b44_z.jpg)
 ![Irenia](https://c5.staticflickr.com/8/7654/27473768036_02f08e2ddf_z.jpg)
 ![Irenia](https://c4.staticflickr.com/8/7337/27436130011_1001209949_z.jpg)
-![Stephane Treand](https://c5.staticflickr.com/8/7077/27231827220_e251f6b2e3_z.jpg)
+![Stephane Treand](https://c3.staticflickr.com/8/7540/27232247170_21162495f6_z.jpg)
 ![Marche Moderne](https://c6.staticflickr.com/8/7354/27436131941_555ac72243_z.jpg)
 ![OC Helicopters](https://c5.staticflickr.com/8/7406/27473769116_efc8e67aa0_z.jpg)
 ![OC Helicopters](https://c1.staticflickr.com/8/7324/27473768936_c91241115b_z.jpg)
