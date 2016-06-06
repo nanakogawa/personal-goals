@@ -25,7 +25,7 @@ Week of 5/30/2016
 ![Irenia](https://c4.staticflickr.com/8/7337/27436130011_1001209949_z.jpg)
 ![Stephane Treand](https://c3.staticflickr.com/8/7540/27232247170_21162495f6_z.jpg)
 ![Playground](https://c6.staticflickr.com/8/7354/27436131941_555ac72243_z.jpg)
-![OC Helicopters](https://c5.staticflickr.com/8/7406/27473769116_efc8e67aa0_z.jpg)
+![OC Helicopters](https://c1.staticflickr.com/8/7202/26899514744_bd539d1735_z.jpg)
 ![OC Helicopters](https://c1.staticflickr.com/8/7324/27473768936_c91241115b_z.jpg)
 
 Week of 6/6/2016
