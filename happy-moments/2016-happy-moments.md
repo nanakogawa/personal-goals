@@ -80,4 +80,4 @@ I test drove 3 cars and got pre approved for a car at CarMax!! So surprised!
 
 06/05/2016
 ----------
-Test drove a Abarth today and got pre-approved!! My 18 year old self is once again surprised!! 
+Test drove an Abarth today and got pre-approved!! My 18 year old self is once again surprised!! 
