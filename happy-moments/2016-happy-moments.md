@@ -69,3 +69,15 @@ Did some deadlifts at the gym and it felt *sooooo* good. I am so happy to be bac
 06/02/2016
 ----------
 Finished my task with React on a project at work that I got thrown into with a 2 day deadline!! And went to the [OCCS](https://www.orangecountycodeschool.com/) Alumni meet up, yippy!
+
+06/03/2016
+----------
+Had a meeting with our client and he loved the work I did for him! Yaaay, so we are keeping the project!! & I found I need to buy a new car!! (This is not much of a 'Happy' moment' but a 'Wth' moment)
+
+06/04/2016
+----------
+I test drove 3 cars and got pre approved for a car at CarMax!! So surprised!
+
+06/05/2016
+----------
+Test drove a Abarth today and got pre-approved!! My 18 year old self is once again surprised!! 
