@@ -57,3 +57,7 @@ I test drove 3 cars and got pre approved for a car at CarMax!! So surprised!
 06/05/2016
 ----------
 Test drove an Abarth today and got pre-approved!! My 18 year old self is once again surprised!! 
+
+06/06/2016
+----------
+Test drove a 2016 Mazda6, which was nice and brand new!! One of the sales associates was swearing by the Abarth. Ironic, it was funny!
