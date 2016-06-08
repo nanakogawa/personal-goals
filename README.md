@@ -35,6 +35,10 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 - [ ] Learn more MySQL
 - [x] Learn Sass
 - [ ] Learn Less
+- [ ] Build 3 Projects
+    - [ ] [MIXU](https://github.com/nanakogawa/mixu)
+    - [ ] Project 2
+    - [ ] Project 3
 
 ### Other Daily/Weekly Logs
 - [Happy Moments](https://github.com/nanakogawa/personal-goals/blob/master/happy-moments/2016-happy-moments.md)
