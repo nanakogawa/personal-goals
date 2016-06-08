@@ -64,3 +64,4 @@ Test drove a 2016 Mazda6, which was nice and brand new!! One of the sales associ
 
 06/07/2016
 ----------
+Found the PERFECT Abarth with an awesome price tag. I'M EXCITED! (I think I've finalized my decision *wink* *wink*) Going to check it out Friday!
