@@ -61,3 +61,6 @@ Test drove an Abarth today and got pre-approved!! My 18 year old self is once ag
 06/06/2016
 ----------
 Test drove a 2016 Mazda6, which was nice and brand new!! One of the sales associates was swearing by the Abarth. Ironic, it was funny!
+
+06/06/2016
+----------
