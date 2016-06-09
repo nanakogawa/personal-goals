@@ -36,7 +36,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 - [x] Learn Sass
 - [ ] Learn Less
 - [ ] Build 3 Projects
-    - [ ] [MIXU](https://github.com/nanakogawa/mixu)
+    - [ ] [Parfait](https://github.com/nanakogawa/parfait)
     - [ ] Project 2
     - [ ] Project 3
 
