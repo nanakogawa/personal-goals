@@ -72,3 +72,4 @@ Started my project [Parfait](https://github.com/nanakogawa/parfait)!!!
 
 06/09/2016
 ----------
+Had fun at the OCCS alumni meet up, we talked about React!
