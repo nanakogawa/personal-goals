@@ -73,3 +73,23 @@ Started my project [Parfait](https://github.com/nanakogawa/parfait)!!!
 06/09/2016
 ----------
 Had fun at the OCCS alumni meet up, we talked about React!
+
+06/10/2016
+----------
+Had a killer leg day!!
+
+06/11/2016
+----------
+Got a super short hair cut! I feel so refreshed!
+
+06/12/2016
+----------
+We had dinner with the family for my older sister's birthday at [Kitayama](https://www.yelp.com/biz/kitayama-newport-beach). The food was phenomenal!!
+
+06/13/2016
+----------
+I submit my first pull request on Github! Of course, there were conflicts since I didn't merge my code with the project's latest code. But after I merged it, all good to go!
+
+06/14/2016
+----------
+One of our client was very happy with my work!! *phew* 
