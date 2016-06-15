@@ -65,3 +65,10 @@ Test drove a 2016 Mazda6, which was nice and brand new!! One of the sales associ
 06/07/2016
 ----------
 Found the PERFECT Abarth with an awesome price tag. I'M EXCITED! (I think I've finalized my decision *wink* *wink*) Going to check it out Friday!
+
+06/08/2016
+----------
+Started my project [Parfait](https://github.com/nanakogawa/parfait)!!!
+
+06/09/2016
+----------
