@@ -22,6 +22,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 - [ ] Set up the back end
 - [ ] Set up and connect the database
 - [ ] Set up front end and back end frameworks/libraries
+- [ ] Do [Angular 2 First Look](http://app.pluralsight.com/courses/angular-2-first-look)
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
