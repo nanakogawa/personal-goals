@@ -4,3 +4,4 @@
 - [ ] [Handlebars](http://handlebarsjs.com/)
 - [ ] [Multer](https://github.com/expressjs/multer)
 - [ ] [Graphics Magik](http://aheckmann.github.io/gm/)
+- [ ] [https://github.com/sahat/satellizer]
