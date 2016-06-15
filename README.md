@@ -9,21 +9,19 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Make More Art (Sketch, Calligraphy, Photoshop, Photography)
 5. Meet More People!
 
-# June 6, 2016
+# June 13, 2016
 
-### This Week's Focus: Start a Project
+### This Week's Focus: Continue Project
 
 ### Things I'll Do This Week:
-- [ ] Listen to podcasts/books ≥ 3
 - [ ] Go to the gym ≥ 4
+- [ ] Listen to podcasts/books ≥ 3
 - [ ] Read [Navigating the ReactJS Ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
-- [ ] Pick a project
 - [ ] Pick the technologies for the project
 - [ ] Pick the database for the project
 - [ ] Set up the back end
 - [ ] Set up and connect the database
 - [ ] Set up front end and back end frameworks/libraries
-- [ ] Figure out which company offers the best auto insurance rate
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
