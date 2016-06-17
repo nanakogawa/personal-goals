@@ -92,4 +92,12 @@ I submit my first pull request on Github! Of course, there were conflicts since 
 
 06/14/2016
 ----------
-One of our client was very happy with my work!! *phew* 
+One of our client was very happy with my work!! *phew*
+
+06/15/2016
+----------
+Had tea with my friend Nancy. She was in the same cohort that I was in. We're going to the Women in Tech conf in July, yay!
+
+06/16/2016
+----------
+Hit a new PR for my cleans!!! 105lbs! Soooo happy, I did 3 sets of 1 rep!
