@@ -9,7 +9,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Make More Art (Sketch, Calligraphy, Photoshop, Photography)
 5. Meet More People!
 
-# June 13, 2016
+# June 20, 2016
 
 ### This Week's Focus: Continue Project
 

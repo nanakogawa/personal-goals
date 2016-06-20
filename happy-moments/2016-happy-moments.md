@@ -101,3 +101,15 @@ Had tea with my friend Nancy. She was in the same cohort that I was in. We're go
 06/16/2016
 ----------
 Hit a new PR for my cleans!!! 105lbs! Soooo happy, I did 3 sets of 1 rep!
+
+06/17/2016
+----------
+I went to [Playground](https://www.yelp.com/biz/playground-santa-ana-3) with my friend and he ate a lot more than I thought!! So happy, the food was amazing! 9 plates!
+
+06/18/2016
+----------
+We celebrated an early Father's day today with the family!
+
+06/19/2016
+----------
+Did 135lb front squats again. I think I'm getting the hang of it. Woohoo!
