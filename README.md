@@ -11,7 +11,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 # June 20, 2016
 
-### This Week's Focus: Continue Project
+### This Week's Focus: Get back in the damn groove
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 4
