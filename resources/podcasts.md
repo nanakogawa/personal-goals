@@ -25,8 +25,8 @@ Week of 5/30/2016
 
 Week of 6/6/2016
 ----------------
-None :sob:
+None
 
 Week of 6/13/2016
 -----------------
-None :sob:
+None
