@@ -113,3 +113,11 @@ We celebrated an early Father's day today with the family!
 06/19/2016
 ----------
 Did 135lb front squats again. I think I'm getting the hang of it. Woohoo!
+
+06/20/2016
+----------
+Bought more books!! & Revoltech Danbo for my boyfriend & I! Yaas, they are so cute! Pictures in my [Picture Moments](https://github.com/nanakogawa/personal-goals/blob/master/picture-moments/2016-picture-moments.md) coming soon!
+
+06/21/2016
+----------
+Another PR!! 175lb regular squats!
