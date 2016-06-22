@@ -6,5 +6,6 @@
 
 ### JS
 - [JS Patterns](http://shichuan.github.io/javascript-patterns/)
+- [Angular 2 First Look](http://app.pluralsight.com/courses/angular-2-first-look)
 
 ### Tools
