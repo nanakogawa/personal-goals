@@ -124,4 +124,4 @@ Another PR!! 175lb regular squats!
 
 06/22/2016
 ----------
-I had a big ol pizza and sweet potato fries at [Pelican Grill](https://www.yelp.com/biz/pelican-grill-newport-coast-2) for lunch!
+I had a big ol pizza and sweet potato fries at [Pelican Grill](https://www.yelp.com/biz/pelican-grill-newport-coast-2) for lunch! It was sooo yummy!
