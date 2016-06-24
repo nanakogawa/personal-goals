@@ -128,3 +128,4 @@ I had a big ol pizza and sweet potato fries at [Pelican Grill](https://www.yelp.
 
 06/23/2016
 ----------
+Finally finished stuff from Adoption Network, so I can work on Uday for the next week!
