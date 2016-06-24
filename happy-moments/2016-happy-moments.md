@@ -121,3 +121,6 @@ Bought more books!! & Revoltech Danbo for my boyfriend & I! Yaas, they are so cu
 06/21/2016
 ----------
 Another PR!! 175lb regular squats!
+
+06/22/2016
+----------
