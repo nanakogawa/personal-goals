@@ -37,10 +37,9 @@ Week of 6/13/2016
 ![Playground](https://c7.staticflickr.com/8/7618/27912027526_e449e32e28_z.jpg)
 ![Playground](https://c5.staticflickr.com/8/7594/27666777980_034920448e_z.jpg)
 ![Playground](https://c4.staticflickr.com/8/7354/27945977835_c6628cc6e3_z.jpg)
-![Playground](https://c3.staticflickr.com/8/7670/27650821770_177af1422c_z.jpg)
-![Playground](https://c8.staticflickr.com/8/7414/27316328543_bbd3af153b_z.jpg)
-![Playground](https://c2.staticflickr.com/8/7518/27929408545_10374ee9eb_z.jpg)
-![Playground](https://c1.staticflickr.com/8/7190/27317101904_be8399f618_z.jpg)
+![Playground](https://c3.staticflickr.com/8/7421/27666778170_3ea3081feb_z.jpg)
+![Playground](https://c6.staticflickr.com/8/7574/27945979685_ce8ae60b2d_z.jpg)
+![Playground](https://c6.staticflickr.com/8/7600/27945977645_bd69d342b2_z.jpg)
 
 Week of 6/20/2016
 -----------------
