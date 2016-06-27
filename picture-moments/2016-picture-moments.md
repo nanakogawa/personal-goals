@@ -1,5 +1,6 @@
 # Picture Moments
 
+### Pictures of the week, capturing moments to last forever!
 All pictures taken by [Sony a5100](http://www.sony.com/electronics/interchangeable-lens-cameras/ilce-5100-body-kit)!
 
 Week of 5/23/2016
