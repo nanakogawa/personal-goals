@@ -133,3 +133,11 @@ Finally finished stuff from Adoption Network, so I can work on Uday for the next
 06/24/2016
 ----------
 Finished off this lovely Friday with a couple of beers with my boss!
+
+06/25/2016
+----------
+Spent my Saturday with a good friend from Riverside. We went to [Laguna Beach](https://www.yelp.com/biz/laguna-beach-laguna-beach) to take some pictures, dinner at [Playground](https://www.yelp.com/biz/playground-santa-ana-3) and watched Finding Dory!
+
+06/26/2016
+----------
+Had lunch at [Marché Moderne](https://www.yelp.com/biz/march%C3%A9-moderne-costa-mesa-3), shopped around [South Coast Plaza](https://www.yelp.com/biz/south-coast-plaza-costa-mesa) and went to test drive a GLK at Fletcher Jones with my friend from high school. Another eventful day!
