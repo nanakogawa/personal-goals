@@ -44,7 +44,7 @@ Week of 6/13/2016
 Week of 6/20/2016
 -----------------
 ![Laguna Beach](https://c4.staticflickr.com/8/7671/27945979035_aa482b5e4c_z.jpg)
-![Laguna Beach](https://c4.staticflickr.com/8/7198/27316321203_ce62ac4c9e_z.jpg)
+![Laguna Beach](https://c2.staticflickr.com/8/7685/27945978505_754cb3bb05_z.jpg)
 ![Laguna Beach](https://c3.staticflickr.com/8/7408/27317095554_5165ce6288_z.jpg)
 ![Fiat 500 Abarth](https://c5.staticflickr.com/8/7483/27317093404_e9a9fcc60c_z.jpg)
 ![Playground](https://c2.staticflickr.com/8/7177/27316314153_ddbb1c55aa_z.jpg)
