@@ -11,7 +11,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 # June 27, 2016
 
-### This Week's Focus: Add a Feature to Parfait
+### This Week's Focus: Add a Feature to [Parfait](https://github.com/nanakogawa/parfait)
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 4
