@@ -9,20 +9,21 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Make More Art (Sketch, Calligraphy, Photoshop, Photography)
 5. Meet More People!
 
-# June 20, 2016
+# June 27, 2016
 
-### This Week's Focus: Get Back in the Damn Groove
+### This Week's Focus: Add a Feature to Parfait
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 4
 - [ ] Listen to podcasts/books ≥ 3
-- [ ] Read [Navigating the ReactJS Ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
-- [ ] Pick the technologies for the project
-- [ ] Pick the database for the project
 - [ ] Set up the back end
 - [ ] Set up and connect the database
 - [ ] Set up front end and back end frameworks/libraries
+- [ ] Add [Multer](https://github.com/expressjs/multer) to Parfait
+- [ ] Create an issue for my first feature
 - [ ] Do [Angular 2 First Look](http://app.pluralsight.com/courses/angular-2-first-look)
+- [ ] Enjoy my birthday weekend in San Francisco
+- [ ] Take more photos of Danbo
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
