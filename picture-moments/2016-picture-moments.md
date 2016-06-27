@@ -1,6 +1,6 @@
 # Picture Moments
 
-### Pictures of the week! Hoping to capture more moments each day.
+All pictures taken by [Sony a5100](http://www.sony.com/electronics/interchangeable-lens-cameras/ilce-5100-body-kit)!
 
 Week of 5/23/2016
 -----------------
