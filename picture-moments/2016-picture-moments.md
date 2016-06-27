@@ -33,9 +33,9 @@ None
 
 Week of 6/13/2016
 -----------------
-![Playground](https://c6.staticflickr.com/8/7098/27929414325_9a746b9014_z.jpg)
-![Playground](https://c3.staticflickr.com/8/7360/27650823770_70c7161bcb_z.jpg)
-![Playground](https://c4.staticflickr.com/8/7728/27316331483_8130c007a9_z.jpg)
+![Playground](https://c4.staticflickr.com/8/7215/27945979355_fbf883d85c_z.jpg)
+![Playground](https://c7.staticflickr.com/8/7618/27912027526_e449e32e28_z.jpg)
+![Playground](https://c5.staticflickr.com/8/7594/27666777980_034920448e_z.jpg)
 ![Playground](https://c2.staticflickr.com/8/7518/27929408545_10374ee9eb_z.jpg)
 ![Playground](https://c3.staticflickr.com/8/7670/27650821770_177af1422c_z.jpg)
 ![Playground](https://c8.staticflickr.com/8/7414/27316328543_bbd3af153b_z.jpg)
