@@ -141,3 +141,7 @@ Spent my Saturday with a good friend from Riverside. We went to [Laguna Beach](h
 06/26/2016
 ----------
 Had lunch at [Marché Moderne](https://www.yelp.com/biz/march%C3%A9-moderne-costa-mesa-3), shopped around [South Coast Plaza](https://www.yelp.com/biz/south-coast-plaza-costa-mesa) and went to test drive a GLK at Fletcher Jones with my friend from high school. Another eventful day!
+
+06/27/2016
+----------
+YES! Finished a feature at work that I thought was going to take me 3 days. Finished it in 1!!
