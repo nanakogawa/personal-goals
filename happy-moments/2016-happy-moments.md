@@ -145,3 +145,11 @@ Had lunch at [Marché Moderne](https://www.yelp.com/biz/march%C3%A9-moderne-cost
 06/27/2016
 ----------
 YES! Finished a feature at work that I thought was going to take me 3 days. Finished it in 1!!
+
+06/28/2016
+----------
+Had my favorite drink from [Roasting Water](https://www.yelp.com/biz/roasting-water-fountain-valley-2)!
+
+06/28/2016
+----------
+Had fun interview prepping my friend for her interview at American Airlines!
