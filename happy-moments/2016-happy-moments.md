@@ -162,3 +162,6 @@ Finally received my replacement earphones!!
 ----------
 One word.. BIRTHDAY!
 
+06/30/2016
+----------
+Flying to San Francisco for the weekend!!!
