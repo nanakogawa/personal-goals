@@ -156,3 +156,4 @@ Had fun interview prepping my friend for her interview at American Airlines!
 
 06/29/2016
 ----------
+Finally received my replacement earphones!!
