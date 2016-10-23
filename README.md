@@ -6,24 +6,26 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 1. Well-Being and Fitness
 2. JavaScript!
 3. CSS & JS animations
-4. Be Creative (Sketch, Calligraphy, Photoshop, Photography)
-5. Meet More People!
+4. Be Creative
+5. Meet More People
 
-# June 27, 2016
+# October 30, 2016
 
-### This Week's Focus: Add a Feature to [Parfait](https://github.com/nanakogawa/parfait)
+### This Week's Focus: Get Back in the Groove
 
 ### Things I'll Do This Week:
-- [ ] Go to the gym ≥ 4
-- [ ] Listen to podcasts/books ≥ 3
-- [ ] Set up the back end
-- [ ] Set up and connect the database
-- [ ] Set up front end and back end frameworks/libraries
-- [ ] Add [Multer](https://github.com/expressjs/multer) to Parfait
-- [ ] Create an issue for my first feature
-- [ ] Do [Angular 2 First Look](http://app.pluralsight.com/courses/angular-2-first-look)
-- [ ] Enjoy my birthday weekend in San Francisco
-- [ ] Take more photos of Danbo
+- [ ] Go to the gym ≥ 3
+- [ ] Listen to a podcast or read a book ≥ 3
+- [ ] Pick a template for my personal website
+- [ ] Build personal website
+- [ ] Upload the personal website live
+- [ ] Sketch a page of food in the green Molskin
+- [ ] Read You Don't Know JS: Up & Going
+- [ ] Create an agreement contract
+- [ ] Edit some photos with Lightroom
+- [ ] Go throught Angular 2 documentation
+- [ ] Go to the DMV
+
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
