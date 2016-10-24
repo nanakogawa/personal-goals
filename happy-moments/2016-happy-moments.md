@@ -169,3 +169,7 @@ Flying to San Francisco for the weekend!!!
 10/23/2016
 ----------
 Got a freelance gig, finally working on my personal website and getting back on my Personal Goals. Feels good to be back!
+
+10/24/2016
+----------
+Purchased 2 templates for my personla website!
