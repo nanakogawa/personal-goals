@@ -9,14 +9,14 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Be Creative
 5. Meet More People
 
-# October 30, 2016
+# October 24, 2016
 
 ### This Week's Focus: Get Back in the Groove
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 3
 - [ ] Listen to a podcast or read a book ≥ 3
-- [ ] Pick a template for my personal website
+- [x] Pick a template for my personal website
 - [ ] Build personal website
 - [ ] Upload the personal website live
 - [ ] Sketch a page of food in the green Molskin
