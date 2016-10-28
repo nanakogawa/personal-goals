@@ -172,4 +172,16 @@ Got a freelance gig, finally working on my personal website and getting back on 
 
 10/24/2016
 ----------
-Purchased 2 templates for my personla website!
+Purchased 2 templates for my personal website!
+
+10/25/2016
+----------
+Got Certan Health all setup and ready to work!!
+
+10/26/2016
+----------
+Got a new curler!!
+
+10/27/2016
+----------
+Finished up BellaZiba! Pretty fun wordpress site with a ton of customizations!
