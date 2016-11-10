@@ -185,3 +185,7 @@ Got a new curler!!
 10/27/2016
 ----------
 Finished up BellaZiba! Pretty fun wordpress site with a ton of customizations!
+
+11/04/2016
+----------
+Heading to SF for the weekend!!
