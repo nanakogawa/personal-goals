@@ -193,3 +193,7 @@ Heading to SF for the weekend!!
 11/09/2016
 ----------
 I got a lot done at work, so my work is finally slowing down and I can finally feel a little bit more relaxed.
+
+11/20/2016
+----------
+Watched a movie called Arrived at Spectrum with some koren bbq tacos (yummmm). Super good movie!!
