@@ -197,3 +197,7 @@ I got a lot done at work, so my work is finally slowing down and I can finally f
 11/20/2016
 ----------
 Watched a movie called Arrived at Spectrum with some koren bbq tacos (yummmm). Super good movie!!
+
+11/21/2016
+----------
+Took Heram to [Anchor Hitch](https://www.yelp.com/biz/anchor-hitch-mission-viejo) and everything was deeeeeelish!
