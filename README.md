@@ -9,7 +9,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Photography
 5. Save Money
 
-# November 13, 2016
+# August 13, 2017
 
 ### This Week's Focus: Stay focused
 
