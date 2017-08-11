@@ -2,6 +2,22 @@
 
 ### I listen to podcasts for new technologies, tips, and mainly for amazing stories!
 
+Week of 6/20/2016
+-----------------
+None
+
+Week of 6/13/2016
+-----------------
+None
+
+Week of 6/6/2016
+----------------
+None
+
+Week of 5/30/2016
+-----------------
+1. [JSJ - 206: PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs)
+
 Week of 5/23/2016
 -----------------
 1. [CodeNewbie - Ep. 89: Mobile Developer](http://www.codenewbie.org/podcast/mobile-developer)
@@ -19,18 +35,3 @@ Week of 5/23/2016
 13. [The Web Platform - 86: Learning React.js](http://thewebplatformpodcast.com/86-learning-reactjs)
 14. [Code Winds - 015: Michael Jackson and Ryan Florence explain that React.js really changes how we think about building web and mobile apps](http://codewinds.com/podcast/015.html) :star:
 
-Week of 5/30/2016
------------------
-1. [JSJ - 206: PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs)
-
-Week of 6/6/2016
-----------------
-None
-
-Week of 6/13/2016
------------------
-None
-
-Week of 6/20/2016
------------------
-None
