@@ -2,43 +2,37 @@ Personal Goals
 ==============
 My personal goals made open source! I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning. Inspired by this [blog post](https://una.im/personal-goals-guide/#💁).
 
-# Overarching Goals for 2017
-1. Well-Being and Fitness
+# Overarching Goals for 2018
+1. Well-Being & Health
 2. JavaScript!
-3. CSS & JS animations
-4. Photography
+3. Photography
+4. Build Robots
 5. Save Money
 
-# August 13, 2017
+# March 05, 2017
 
-### This Week's Focus: Stay focused
+### This Week's Focus: Start the beginning of consistency
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 3
-- [ ] Watch a Gary V vlog
+- [ ] Finish 4 lectures on Angular 5 Turorial
 - [ ] Finish my personal website
-- [ ] Work on my photography portfolio website
-- [ ] Edit Shutter Space set
-- [ ] Edit RWD Day 1 set
-- [ ] Edit RWD Day 2 set
-- [ ] Edit 2 photos of food/drink
-- [ ] Read You Don't Know JS: Up & Going
-- [ ] Watch video on A7 RII
+- [ ] Read JavaScript Patterns
 
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Go through [Angular 2 documentation](https://angular.io/docs)
-- [ ] Build a project with Angular 2
+- [ ] Build a project with Angular 5
 - [ ] Build a project with ReactJS
-- [ ] Build my personal website
+- [ ] Build my personal dev website
+- [ ] Build my personal photography website
 - [ ] Read this [CSS Guidelines](http://cssguidelin.es/)
-- [ ] Watch or read tutorials on Photoshop
+- [x] Watch tutorials of skin retouching on Photoshop
 - [ ] Learn more MySQL
 - [x] Learn Sass
 - [ ] Learn Less
 - [ ] Build 3 Projects
-    - [ ] [Parfait](https://github.com/nanakogawa/parfait)
+    - [ ] [Angular 5 Tutorial App](https://github.com/nanakogawa/angular-recipe-app)
     - [ ] Project 2
     - [ ] Project 3
 
