@@ -9,7 +9,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Build Robots
 5. Save Money
 
-# March 05, 2017
+# March 05, 2018
 
 ### This Week's Focus: Start the beginning of consistency
 
