@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97796d38-eb08-4b05-971b-61d2b6ad149a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-10-week4.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-10-week4.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-11-week3.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-11-week3.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-11-week4.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-11-week4.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-5-week4.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-5-week4.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-6-week1.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-6-week1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-6-week2.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-6-week2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-6-week3.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-6-week3.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-6-week4.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-6-week4.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accomplishments/2016-7-week1.md" afterPath="$PROJECT_DIR$/accomplishments/2016/2016-7-week1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/blog-posts.md" afterPath="$PROJECT_DIR$/resources/blog-posts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/books.md" afterPath="$PROJECT_DIR$/resources/books.md" />
-    </list>
+    <list default="true" id="97796d38-eb08-4b05-971b-61d2b6ad149a" name="Default" comment="" />
     <ignored path="personal-goals.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +27,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="22" />
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -472,7 +459,7 @@
       <workItem from="1479712813406" duration="948000" />
       <workItem from="1479850204554" duration="227000" />
       <workItem from="1502441021832" duration="1283000" />
-      <workItem from="1520216330785" duration="629000" />
+      <workItem from="1520216330785" duration="919000" />
     </task>
     <task id="LOCAL-00125" summary="Update Picture Moments :camera:">
       <created>1467063163058</created>
@@ -821,7 +808,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60775000" />
+    <option name="totallyTimeSpent" value="61065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
@@ -833,7 +820,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867885" sideWeight="0.49636552" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283186" sideWeight="0.49636552" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1553,8 +1540,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="22" />
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
