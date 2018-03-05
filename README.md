@@ -37,6 +37,6 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
     - [ ] Project 3
 
 ### Other Daily/Weekly Logs
-- [Happy Moments](https://github.com/nanakogawa/personal-goals/blob/master/happy-moments/2016-happy-moments.md)
-- [Picture Moments](https://github.com/nanakogawa/personal-goals/blob/master/picture-moments/2016-picture-moments.md)
+- [Happy Moments](https://github.com/nanakogawa/personal-goals/blob/master/happy-moments)
+- [Picture Moments](https://github.com/nanakogawa/personal-goals/blob/master/picture-moments)
 - [Podcasts I've Listen to](https://github.com/nanakogawa/personal-goals/blob/master/resources/podcasts.md)
