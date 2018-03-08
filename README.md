@@ -11,12 +11,12 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 # March 05, 2018
 
-### This Week's Focus: Start the beginning of consistency
+### This Week's Focus: Start being consistent again
 
 ### Things I'll Do This Week:
 - [ ] Go to the gym ≥ 3
-- [ ] Finish 4 lectures on Angular 5 Turorial
-- [ ] Finish my personal website
+- [ ] Finish 4 lectures on Angular 5 Tutorial
+- [ ] Finish my personal dev website
 - [ ] Read JavaScript Patterns
 
 
