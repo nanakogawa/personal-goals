@@ -9,11 +9,11 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Build Robots
 5. Save Money
 
-# March 05, 2018
+# March 12, 2018
 
-### Next Week's Goal: Online Courses! 
+### This Week's Focus: Online Courses! 
 
-### Things I'll do Next Week:
+### Things I'll do This Week:
 - [ ] Finish JavaScript: Understanding the Weird Parts
 - [ ] Read JavaScript Patterns
 - [ ] Start Go: The Complete Developer's Guide
