@@ -3,9 +3,21 @@
 ### One happy moment per day, 365 happy moments per year!
 
 
+03/11/2018
+----------
+Tried out a new filipino restaurant in Cerritos.
+
+03/10/2018
+----------
+Had all day to myself to study!
+
+03/09/2018
+----------
+Cleaned and threw away old stuff. Feelin' refreshed.
+
 03/08/2018
 ----------
-
+Had lunch at Fatty Tuna with Truong and Sandra.
 
 03/07/2018
 ----------
