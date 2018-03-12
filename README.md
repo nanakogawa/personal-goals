@@ -11,20 +11,24 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 
 # March 05, 2018
 
-### This Week's Focus: Start being consistent again
+### Next Week's Goal: Online Courses! 
 
-### Things I'll Do This Week:
-- [ ] Go to the gym ≥ 3
-- [ ] Finish 4 lectures on Angular 5 Tutorial
-- [ ] Finish my personal dev website
+### Things I'll do Next Week:
+- [ ] Finish JavaScript: Understanding the Weird Parts
 - [ ] Read JavaScript Patterns
+- [ ] Start Go: The Complete Developer's Guide
+- [ ] Find an online course for ES6
+- [ ] Find an online course for Java
+- [ ] Buy [The Beginners Guide to SQL and PostgreSQL](https://www.udemy.com/sql-the-beginners-guide/)
+- [ ] Read up on [Redis](https://redis.io/)
+- [ ] Read up on [Revel](https://revel.github.io/)
 
 
 ### Things I'll Do in the Future:
 - [ ] Be familiar with all of [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Build a project with Angular 5
 - [ ] Build a project with ReactJS
-- [ ] Build my personal dev website
+- [x] Build my personal dev website
 - [ ] Build my personal photography website
 - [ ] Read this [CSS Guidelines](http://cssguidelin.es/)
 - [x] Watch tutorials of skin retouching on Photoshop
