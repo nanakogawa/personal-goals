@@ -9,6 +9,5 @@
 - [ ] [You Don't Know JS: Types & Grammar](https://www.amazon.com/gp/product/1491904194/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 - [ ] [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/gp/product/0321965515/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)
 - [ ] [Pocket Guide to Writing SVGs](http://svgpocketguide.com/book/)
-- [ ] [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] [JavaScript Patterns: Build Better Applications with Coding and Design Patterns](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding-ebook/dp/B0046RERXE/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1520216614&sr=1-3&keywords=javascript+design+patterns) :book:
 - [ ] [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
