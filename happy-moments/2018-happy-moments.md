@@ -3,6 +3,18 @@
 ### One happy moment per day, 365 happy moments per year!
 
 
+03/14/2018
+----------
+
+
+03/13/2018
+----------
+Had a delish nutella croissant and espresso after a long day of work.
+
+03/12/2018
+----------
+Got Meet Fresh with Sandra.
+
 03/11/2018
 ----------
 Tried out a new filipino restaurant in Cerritos.
