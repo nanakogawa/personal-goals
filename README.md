@@ -9,7 +9,7 @@ My personal goals made open source! I'm open sourcing these goals for accessibil
 4. Build Robots
 5. Save Money
 
-# March 17, 2018
+# March 19, 2018
 
 ### This Week's Focus: Start React & ES6
 
