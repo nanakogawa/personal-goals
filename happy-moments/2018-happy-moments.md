@@ -2,10 +2,29 @@
 
 ### One happy moment per day, 365 happy moments per year!
 
+03/19/2018
+----------
+Studied with Sandra at Kona!
+
+03/18/2018
+----------
+Finished my Advanced JS course & celebrated my little sister's birthday!
+
+03/17/2018
+----------
+Ate at my absolute favorite BBQ restaurant for lunch!
+
+03/16/2018
+----------
+Treated myself some ice cream after a long day of work and doing online courses haha!
+
+03/15/2018
+----------
+The Cut burger truck came to work! Twas a good burger.
 
 03/14/2018
 ----------
-
+Learned CSS Grid!
 
 03/13/2018
 ----------
