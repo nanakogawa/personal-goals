@@ -3,8 +3,8 @@ Personal Goals
 My personal goals made open source! I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning. Inspired by this [blog post](https://una.im/personal-goals-guide/#💁).
 
 # Overarching Goals for 2018
-1. JavaScript!
-2. Fitness
+1. Fitness & Health
+2. JavaScript!
 3. Photography
 4. Build Robots
 5. Save Money
