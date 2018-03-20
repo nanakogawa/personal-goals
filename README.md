@@ -3,25 +3,21 @@ Personal Goals
 My personal goals made open source! I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning. Inspired by this [blog post](https://una.im/personal-goals-guide/#💁).
 
 # Overarching Goals for 2018
-1. Well-Being & Health
-2. JavaScript!
+1. JavaScript!
+2. Fitness
 3. Photography
 4. Build Robots
 5. Save Money
 
-# March 12, 2018
+# March 17, 2018
 
-### This Week's Focus: Online Courses! 
+### This Week's Focus: Start React & ES6
 
 ### Things I'll do This Week:
-- [ ] Finish JavaScript: Understanding the Weird Parts
 - [ ] Read JavaScript Patterns
-- [ ] Start Go: The Complete Developer's Guide
-- [ ] Find an online course for ES6
-- [ ] Find an online course for Java
-- [ ] Buy [The Beginners Guide to SQL and PostgreSQL](https://www.udemy.com/sql-the-beginners-guide/)
-- [ ] Read up on [Redis](https://redis.io/)
-- [ ] Read up on [Revel](https://revel.github.io/)
+- [ ] Start the course [ES6](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
+- [ ] Start the course [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview)
+- [ ] Have fun in SF!
 
 
 ### Things I'll Do in the Future:
