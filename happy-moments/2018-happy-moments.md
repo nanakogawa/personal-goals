@@ -2,6 +2,18 @@
 
 ### One happy moment per day, 365 happy moments per year!
 
+03/22/2018
+----------
+Had Santouka for lunch, drooool.
+
+03/21/2018
+----------
+Finally received my take home project!
+
+03/20/2018
+----------
+Tried the crystal boba at Ding Tea. Pretty good.
+
 03/19/2018
 ----------
 Studied with Sandra at Kona!
